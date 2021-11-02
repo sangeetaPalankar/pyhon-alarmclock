@@ -7,10 +7,6 @@ If you set a particular time in the alarm clock, it will pick a random YouTube l
 text file and play the YouTube video.
 
 
-
-
-
-* Result :
 ![alt text](https://github.com/sangeetaPalankar/python-alarmclock/blob/main/alarmC1.png?raw=true)
 
-![alt text](https://github.com/sangeetaPalankar/python-alarmclock/blob/main/alarmC2.png?raw=true)
+
