@@ -9,7 +9,7 @@ text file and play the YouTube video.
 
 
 
-Try this markdown:
+
 
 ![alt text](https://github.com/sangeetaPalankar/python-alarmclock/blob/main/alarmC1.png?raw=true)
 
